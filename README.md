@@ -101,7 +101,7 @@ Document-based AI application for interacting with educational material through 
 
 **IoT + Mobile Energy System**
 
-Public
+Private
 
 Footstep-energy harvesting prototype connected to a React Native mobile application.
 
