@@ -4,7 +4,7 @@
 
 `software engineer` · `full-stack` · `backend`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=I+build+software+from+UI+to+database.;React+%2B+TypeScript+%2B+Node.js;Backend+%2B+system+design+%2B+AI;Always+building+something." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=I+build+software+from+UI+to+database.;React+%2B+TypeScript+%2B+Node.js+%2B+Python;Backend+%2B+system+design+%2B+AI;Always+building+something." />
 
 <br/>
 
